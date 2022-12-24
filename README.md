@@ -21,11 +21,15 @@ Os requisitos para este desafio são:
 - O resultado da request deverá ser exibido no command line, bem como qual API a enviou.
 - Limitar o tempo de resposta em 1 segundo. Caso contrário, o erro de timeout deve ser exibido.
 
-# Autor
-<view style="display:flex;">
-  <view style="display:flex; flex-direction:column; align-items:center;">
-    <img src="https://avatars.githubusercontent.com/u/82416762?v=4" width=60 style="border-radius: 30px"><br>
-    <a href="https://github.com/ClaudionorJunior">Github</a>
-    <a href="https://www.linkedin.com/in/claudionorsilva">Linkedin</a>
-  </view>
-</view>
+## Autor
+<table>
+  <tr>
+    <th><img src="https://avatars.githubusercontent.com/u/82416762?v=4" width=60></th>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/ClaudionorJunior">Github</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://www.linkedin.com/in/claudionorsilva">Linkedin</a></td>
+  </tr>
+</table>
